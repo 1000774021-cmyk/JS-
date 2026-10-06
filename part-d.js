@@ -7,3 +7,4 @@
 //     console.log(`${player.score}-${player.nickname} id:${player.id} level:${player.level}`);
 // })
 
+console.log("gethub");
